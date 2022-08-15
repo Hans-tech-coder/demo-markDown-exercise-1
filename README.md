@@ -9,3 +9,7 @@
 [github](https://github.com/)
 **NOTE** if we eant to add a title tooltip and a space inside a parenthesis eith qoutes to display a ballon tip.
 [github](https://github.com/ "github tooltip")
+
+<!-- Image Display -->
+![This an Image of a cat](https://static.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg
+)
